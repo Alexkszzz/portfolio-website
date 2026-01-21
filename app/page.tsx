@@ -387,7 +387,7 @@ export default function Home() {
             <div className="bg-gray-800/50 rounded-lg overflow-hidden border border-gray-700 hover:border-blue-500 transition-colors">
               <div
                 className="aspect-video bg-cover bg-center"
-                style={{ backgroundImage: "url(/projects/JAT.png)" }}
+                style={{ backgroundImage: "url(/projects/JAT.PNG)" }}
               />
               <div className="p-6">
                 <h4 className="text-xl font-semibold mb-2">
@@ -435,7 +435,7 @@ export default function Home() {
             <div className="bg-gray-800/50 rounded-lg overflow-hidden border border-gray-700 hover:border-blue-500 transition-colors">
               <div
                 className="aspect-video bg-cover bg-center"
-                style={{ backgroundImage: "url(/projects/NhanVanEdu.png)" }}
+                style={{ backgroundImage: "url(/projects/NhanvanEdu.PNG)" }}
               />
               <div className="p-6">
                 <h4 className="text-xl font-semibold mb-2">
@@ -474,7 +474,7 @@ export default function Home() {
             <div className="bg-gray-800/50 rounded-lg overflow-hidden border border-gray-700 hover:border-blue-500 transition-colors">
               <div
                 className="aspect-video bg-cover bg-center"
-                style={{ backgroundImage: "url(/projects/QuoteCloud.png)" }}
+                style={{ backgroundImage: "url(/projects/QuoteCloud.PNG)" }}
               />
               <div className="p-6">
                 <h4 className="text-xl font-semibold mb-2">QuoteCloud</h4>
