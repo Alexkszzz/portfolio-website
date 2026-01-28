@@ -28,7 +28,7 @@ export default function Home() {
       <nav className="fixed top-0 w-full bg-gray-900/80 backdrop-blur-sm z-50 border-b border-gray-800">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-            Trong Tuan Mai
+            Alex (Trong Tuan) Mai
           </h1>
           <div className="flex gap-6">
             <a
@@ -63,7 +63,7 @@ export default function Home() {
             <h2 className="text-5xl md:text-7xl font-bold mb-6">
               Hello, I'm{" "}
               <span className="bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-                Trong Tuan
+                Alex
               </span>
             </h2>
             <p className="text-xl md:text-2xl text-gray-300 mb-8">
@@ -158,7 +158,7 @@ export default function Home() {
             <div className="border-l-2 border-blue-600 pl-8 py-4">
               <div className="flex flex-col md:flex-row md:justify-between mb-2">
                 <h4 className="text-2xl font-semibold">
-                  Website & Front-End Lead (Volunteer Project)
+                  Website & Front-End Lead
                 </h4>
                 <span className="text-gray-400">Mar 2025 - Jul 2025</span>
               </div>
@@ -194,7 +194,7 @@ export default function Home() {
             <div className="border-l-2 border-blue-600 pl-8 py-4">
               <div className="flex flex-col md:flex-row md:justify-between mb-2">
                 <h4 className="text-2xl font-semibold">
-                  Software Developer (Internship + Contract)
+                  Software Developer
                 </h4>
                 <span className="text-gray-400">Jul 2024 - Dec 2024</span>
               </div>
